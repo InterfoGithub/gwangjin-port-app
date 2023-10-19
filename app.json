@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-webview-app",
-    "slug": "react-native-webview-app",
+    "name": "gwangjin-port-app",
+    "slug": "gwangjin-port-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
