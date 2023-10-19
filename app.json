@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.interfo.gwangjinportapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e8da3a36-33f0-4117-92c8-8098becdcb63"
+      }
     }
   }
 }
