@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "gwangjin-port-app",
+    "name": "광진항",
     "slug": "gwangjin-port-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +22,8 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.interfo.gwangjinportapp"
+      "package": "com.interfo.gwangjinportapp",
+			"versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
